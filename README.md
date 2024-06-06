@@ -1,4 +1,4 @@
 # amisha-demo
 This is my first Git Repository.
 <br>
-Author - Amisha Sikka
+Author - Amisha Sikka(amisha-demo)
